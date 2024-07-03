@@ -1,2 +1,3 @@
 # TinkaRed-my-first-project
-fullStack Course Project 
+
+fullStack Course Project number 1
